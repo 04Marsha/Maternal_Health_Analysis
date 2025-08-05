@@ -11,6 +11,13 @@ This project analyzes and forecasts India’s **Maternal Mortality Ratio (MMR)**
 - 🎯 Compares forecast with SDG target
 - 🏥 Analyzes health data by sector
 
+## 🔑 Key Learnings
+
+- Learned how to handle time-series health data and build predictive models  
+- Gained insights into maternal health indicators and their impact on MMR  
+- Practiced real-world data cleaning, visualization, and forecasting  
+- Understood the importance of data-driven tracking of SDG goals
+
 ## 📁 Contents
 
 - Jupyter Notebook with full code & analysis
